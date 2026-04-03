@@ -55,6 +55,20 @@
 
 ---
 
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aspartic&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=aspartic&theme=tokyonight" height="160"/>
+</p>
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aspartic-gthb&theme=tokyo-night)
+
+
+---
+
 
 ## 🌐 Connect With Me
 

@@ -1,40 +1,77 @@
-# aspartic-gthb_Introduction
-# Hi, I'm Anirudh (alias aspartic)
+# 🚀 Hi, I'm Anirudh (aspartic)
 
-Welcome to my GitHub profile. I'm an ECE undergraduate at the National Institute of Technology, Silchar. I enjoy building things that mix electronics, software, and intelligent systems.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=ECE+Undergrad+@+NIT+Silchar;Robotics+%7C+ML+%7C+Embedded+Systems;ISRO+%26+Space+Tech+Enthusiast)
 
-## About Me
+Welcome to my GitHub profile.  
+I enjoy building systems that combine **electronics, software, and intelligence**.
 
-* **ECE Undergraduate** at NIT Silchar
-* Interested in **Machine Learning**, **Robotics**, and **Embedded Systems**
-* Comfortable with **C**, currently exploring **C++** in depth
-* Actively learning **Python** for ML workflows
-* Curious about system design, modeling, and simulation
-* Passionate and enthusiastic about ISRO and Space Programs and its related tech 
+---
 
-## What I'm Working On
+## 🧠 About Me
 
-* Strengthening my foundations in C++ and Python
-* Exploring machine learning concepts like data handling, model training, and deployment
-* Experimenting with simple robotics and automation projects
-* Improving problem-solving skills through small coding challenges
+- 🎓 ECE Undergraduate at **NIT Silchar**
+- 🤖 Interested in **Machine Learning, Robotics, and Embedded Systems**
+- 💻 Comfortable with **C**, exploring **C++** deeply
+- 🐍 Learning **Python** for ML workflows
+- ⚙️ Curious about **system design, modeling, and simulation**
+- 🚀 Passionate about **ISRO & space technologies**
 
-## What I Want to Explore Next
+---
 
-* ML libraries and tools such as NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow
-* Deep learning basics and neural networks
-* Computer vision applications for robotics
-* Microcontroller-based intelligent systems
-* Git, GitHub workflows, and open-source contribution
+## 🔧 What I'm Working On
 
-## Skills
+- Strengthening **C++ and Python fundamentals**
+- Exploring **ML workflows (data → model → deployment)**
+- Building small **robotics & automation projects**
+- Improving **problem-solving skills**
 
-* **Programming:** C, C++, Python
-* **Interests:** ML, Robotics, Embedded Systems
-* **Learning:** Data structures, Algorithms, Deep Learning
+---
 
-## Connect
+## 🔭 What I Want to Explore Next
 
-Feel free to check out my repositories, suggest improvements, or collaborate on related topics.
+- 📊 NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
+- 🧠 Deep Learning & Neural Networks  
+- 👁️ Computer Vision for robotics  
+- 🔌 Intelligent microcontroller systems  
+- 🌍 Open-source contributions & Git workflows  
 
-"Learning by building, improving by exploring."
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aspartic&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=aspartic&theme=tokyonight)
+
+---
+
+## 🌌 Interests
+
+- Machine Learning  
+- Robotics  
+- Embedded Systems  
+- Space Technology  
+
+---
+
+## 📌 Connect
+
+Feel free to explore my repositories, suggest improvements, or collaborate.
+
+---
+
+### ✨ Quote
+
+> *Learning by building, improving by exploring.*

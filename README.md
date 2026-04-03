@@ -55,25 +55,21 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/aspartic/aspartic/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://linkedin.com/in/anirudhsahu29">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://twitter.com/Aspartic2314">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://instagram.com/">
+  <a href="https://instagram.com/asp_artic">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
+
 
 ---
 

@@ -1,77 +1,90 @@
-# 🚀 Hi, I'm Anirudh (aspartic)
+# 🚀 Anirudh | aspartic
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=ECE+Undergrad+@+NIT+Silchar;Robotics+%7C+ML+%7C+Embedded+Systems;ISRO+%26+Space+Tech+Enthusiast)
-
-Welcome to my GitHub profile.  
-I enjoy building systems that combine **electronics, software, and intelligence**.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;Robotics+%7C+ML+%7C+Embedded+Systems;Exploring+Intelligent+Systems;ISRO+%26+Space+Tech+Enthusiast)
 
 ---
 
-## 🧠 About Me
+## 🛰️ About Me
 
 - 🎓 ECE Undergraduate at **NIT Silchar**
-- 🤖 Interested in **Machine Learning, Robotics, and Embedded Systems**
-- 💻 Comfortable with **C**, exploring **C++** deeply
-- 🐍 Learning **Python** for ML workflows
-- ⚙️ Curious about **system design, modeling, and simulation**
-- 🚀 Passionate about **ISRO & space technologies**
+- 🤖 Exploring **Machine Learning, Robotics & Embedded Systems**
+- 💻 Strong in **C**, diving deeper into **C++**
+- 🐍 Learning **Python for ML workflows**
+- ⚙️ Interested in **system design, simulation & intelligent systems**
+- 🚀 Inspired by **ISRO & space technologies**
 
 ---
 
-## 🔧 What I'm Working On
+## 🔭 Current Focus
 
-- Strengthening **C++ and Python fundamentals**
-- Exploring **ML workflows (data → model → deployment)**
-- Building small **robotics & automation projects**
-- Improving **problem-solving skills**
+- Strengthening **C++ + Python fundamentals**
+- Building **small robotics & automation systems**
+- Understanding **ML pipelines (data → training → deployment)**
+- Practicing **problem-solving & core concepts**
 
 ---
 
-## 🔭 What I Want to Explore Next
+## 🧠 Next Exploration Goals
 
-- 📊 NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
+- 📊 NumPy, Pandas, Matplotlib, Scikit-learn  
 - 🧠 Deep Learning & Neural Networks  
 - 👁️ Computer Vision for robotics  
-- 🔌 Intelligent microcontroller systems  
-- 🌍 Open-source contributions & Git workflows  
+- 🔌 Embedded intelligent systems  
+- 🌍 Open-source contributions  
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aspartic&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=aspartic&theme=tokyonight)
-
----
-
-## 🌌 Interests
-
-- Machine Learning  
-- Robotics  
-- Embedded Systems  
-- Space Technology  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aspartic&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=aspartic&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 📌 Connect
+## 🐍 Contribution Snake
 
-Feel free to explore my repositories, suggest improvements, or collaborate.
+![Snake animation](https://github.com/aspartic/aspartic/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### ✨ Quote
+## 🌐 Connect With Me
 
-> *Learning by building, improving by exploring.*
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Direction
+
+- 🤖 Robotics + AI integration  
+- 🧠 Intelligent embedded systems  
+- 🌌 Space-tech inspired engineering  
+
+---
+
+## ✨ Philosophy
+
+> *Learning by building. Improving by exploring. Scaling by consistency.*

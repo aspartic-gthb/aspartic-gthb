@@ -58,7 +58,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/anirudhsahu29">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

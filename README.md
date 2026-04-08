@@ -2,6 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;Robotics+%7C+ML+%7C+Embedded+Systems;Exploring+Intelligent+Systems;ISRO+%26+Space+Tech+Enthusiast)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aspartic-gthb&color=blue" />
+</p>
+
 ---
 
 ## 🛰️ About Me
@@ -21,6 +25,33 @@
 - Building **small robotics & automation systems**
 - Understanding **ML pipelines (data → training → deployment)**
 - Practicing **problem-solving & core concepts**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aspartic-gthb&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspartic-gthb&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aspartic-gthb&theme=tokyonight" />
+</p>
+
+---
+
+## 🧰 Workflow & Tools
+
+- 🧪 Experimentation: Jupyter Notebook  
+- 🔧 Version Control: Git + GitHub  
+- 🖥️ Development: VS Code + Linux  
+- ⚙️ Hardware: Arduino, Sensors  
+- 📊 ML Stack: NumPy, Pandas, Scikit-learn  
 
 ---
 
@@ -45,7 +76,6 @@
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 

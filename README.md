@@ -72,6 +72,12 @@
 ## 🌐 Connect With Me
 
 <p>
+  <a href="mailto:anirudhsahu262005@gmail.com" title="Personal Email">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="mailto:anirudh_ug_25@ece.nits.ac.in" title="Institute Email">
+    <img src="https://img.icons8.com/material-outlined/48/ffffff/new-post.png"/>
+  </a>
   <a href="https://linkedin.com/in/anirudhsahu29">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

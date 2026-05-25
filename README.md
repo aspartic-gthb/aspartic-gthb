@@ -1,6 +1,6 @@
 # 🚀 Anirudh | aspartic
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;Robotics+%7C+ML+%7C+Embedded+Systems;Exploring+Intelligent+Systems;ISRO+%26+Space+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;Open+Source+Dev+%7C+ML+%7C+Robotics;Exploring+Intelligent+Systems;ISRO+%26+Space+Tech+Enthusiast)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aspartic-gthb&color=blue" />

@@ -12,7 +12,7 @@
 
 - 🎓 ECE Undergraduate at **NIT Silchar**
 - 🤖 Exploring **Machine Learning, Robotics & Embedded Systems**
-- 💻 Strong in **C**, diving deeper into **C++**
+- 💻 **C**,**Java**,**Python**
 - 🐍 Learning **Python for ML workflows**
 - ⚙️ Interested in **system design, simulation & intelligent systems**
 - 🚀 Inspired by **ISRO & space technologies**

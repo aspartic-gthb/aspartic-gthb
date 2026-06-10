@@ -14,14 +14,13 @@
 - 🤖 Exploring **Machine Learning, Robotics & Embedded Systems**
 - 💻 **C**,**Java**,**Python**
 - 🐍 Learning **Python for ML workflows**
-- ⚙️ Interested in **system design, simulation & intelligent systems**
 - 🚀 Inspired by **ISRO & space technologies**
 
 ---
 
 ## 🔭 Current Focus
 
-- Strengthening **C++ + Python fundamentals**
+- Strengthening **Java + Python fundamentals**
 - Building **small robotics & automation systems**
 - Understanding **ML pipelines (data → training → deployment)**
 - Practicing **problem-solving & core concepts**
@@ -35,15 +34,6 @@
   <img src="https://streak-stats.demolab.com?user=aspartic-gthb&theme=tokyonight&cache_seconds=86400" />
 </p>
 
----
-
-## 🧰 Workflow & Tools
-
-- 🧪 Experimentation: Jupyter Notebook  
-- 🔧 Version Control: Git + GitHub  
-- 🖥️ Development: VS Code + Linux  
-- ⚙️ Hardware: Arduino, Sensors  
-- 📊 ML Stack: NumPy, Pandas, Scikit-learn  
 
 ---
 
@@ -60,7 +50,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,linux,git,github,vscode" />
 </p>
 
 <p align="center">

@@ -1,6 +1,6 @@
 # 🚀 Anirudh | aspartic
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;Open+Source+Dev+%7C+ML+%7C+Robotics;Exploring+Intelligent+Systems;ISRO+%26+Space+Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;+ML+%7C+Cybersecurity+%7C+Development;ISRO+%26+Space+Tech+Enthusiast)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aspartic-gthb&color=blue" />
@@ -11,22 +11,11 @@
 ## 🛰️ About Me
 
 - 🎓 ECE Undergraduate at **NIT Silchar**
-- 🤖 Exploring **Machine Learning, Robotics & Embedded Systems**
-- 💻 **C**,**Java**,**Python**
-- 🐍 Learning **Python for ML workflows**
+- 🤖 Exploring **Machine Learning, Cybersecurity , Web Dev**
+- 💻 **Java**,**Python**
 - 🚀 Inspired by **ISRO & space technologies**
 
 ---
-
-## 🔭 Current Focus
-
-- Strengthening **Java + Python fundamentals**
-- Building **small robotics & automation systems**
-- Understanding **ML pipelines (data → training → deployment)**
-- Practicing **problem-solving & core concepts**
-
----
-
 
 ## 🔥 Streak Stats
 
@@ -34,16 +23,6 @@
   <img src="https://streak-stats.demolab.com?user=aspartic-gthb&theme=tokyonight&cache_seconds=86400" />
 </p>
 
-
----
-
-## 🧠 Next Exploration Goals
-
-- 📊 NumPy, Pandas, Matplotlib, Scikit-learn  
-- 🧠 Deep Learning & Neural Networks  
-- 👁️ Computer Vision for robotics  
-- 🔌 Embedded intelligent systems  
-- 🌍 Open-source contributions  
 
 ---
 
@@ -78,14 +57,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
----
-
-## 🚀 Featured Direction
-
-- 🤖 Robotics + AI integration  
-- 🧠 Intelligent embedded systems  
-- 🌌 Space-tech inspired engineering  
 
 ---
 

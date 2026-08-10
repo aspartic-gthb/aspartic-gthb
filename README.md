@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,arduino" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
 ---

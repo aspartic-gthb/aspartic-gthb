@@ -1,4 +1,4 @@
-# 🚀 Anirudh | aspartic
+#  Anirudh | aspartic
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;+ML+%7C+Cybersecurity+%7C+Development;ISRO+%26+Space+Tech+Enthusiast)
 

@@ -1,65 +1,56 @@
-#  Anirudh | aspartic
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+@+NIT+Silchar;+ML+%7C+Cybersecurity+%7C+Development;ISRO+%26+Space+Tech+Enthusiast)
+<h1 align="center">Anirudh Sahu | aspartic</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aspartic-gthb&color=blue" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=ECE+Undergrad+at+NIT+Silchar;ML+%7C+Cybersecurity+%7C+Development;Interested+in+ISRO+and+Space+Tech" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aspartic-gthb&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-## 🛰️ About Me
+## About Me
 
-- 🎓 ECE Undergraduate at **NIT Silchar**
-- 🤖 Exploring **Machine Learning, Cybersecurity , Web Dev**
-- 💻 **Java**,**Python**
-- 🚀 Inspired by **ISRO & space technologies**
+- 🎓 ECE undergraduate at **NIT Silchar**
+- 🤖 Learning machine learning, cybersecurity and web development
+- 💻 Main languages: **Java** and **Python**
+- 🚀 Interested in ISRO and space technology
 
 ---
 
-## 🔥 Streak Stats
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,linux,git,github,vscode,tensorflow,opencv" />
+</p>
+
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aspartic-gthb&theme=tokyonight&cache_seconds=86400" />
 </p>
 
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,linux,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspartic-gthb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Currently
+
+- finding my purpose
+
+
+
+## Connect
 
 <p>
-  <a href="mailto:anirudhsahu262005@gmail.com" title="Personal Email">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="mailto:anirudh_ug_25@ece.nits.ac.in" title="Institute Email">
-    <img src="https://img.icons8.com/material-outlined/48/ffffff/new-post.png"/>
-  </a>
-  <a href="https://linkedin.com/in/anirudhsahu29">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/Aspartic2314">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://instagram.com/asp_artic">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <a href="mailto:anirudh_ug_25@ece.nits.ac.in"><img src="https://img.icons8.com/material-outlined/48/ffffff/new-post.png"/></a>
+  <a href="https://linkedin.com/in/anirudhsahu29"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/Aspartic2314"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
----
-
-## ✨ Philosophy
-
-> *Learning by building. Improving by exploring. Scaling by consistency.*
